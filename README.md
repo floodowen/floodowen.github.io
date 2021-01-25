@@ -2,7 +2,7 @@
 
 ## Owen Flood's Github Page
 
-![owen](images/owen.JPG)
+![owen](images/owen.JPG){:height="50%" width="50%"}
 
 #About me
 
