@@ -13,5 +13,5 @@ Global Environmental Change.
 I hope to work in the climate change resilience field after graduation, 
 specifically in coastal environments.
 
-|[Data](https://eaton-lab.org/data/iris-data-dirty.csv/)|
-|---|
+## [Data](https://eaton-lab.org/data/iris-data-dirty.csv/)
+
